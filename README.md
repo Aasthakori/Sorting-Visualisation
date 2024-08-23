@@ -6,7 +6,7 @@ In this visualizer, we will explore several of these sorting algorithms to under
 
 The array size is set at 130 elements. We can generate a new random list and choose any of the sorting algorithms from the provided options to sort the list. All algorithms will arrange the elements in ascending order. Please note that the visual representation of the sorting process does not exactly match the real-time complexity of each algorithm. Faster algorithms like Merge Sort have been deliberately slowed down to make their operation clearer in the visualization.
 
-While working on Visualization of different sorting algorithms we used C++ and SDL2 Library .
+While working on the Visualization of different sorting algorithms, we used C++ and SDL2 Library .
 
 # Controls:-
 
